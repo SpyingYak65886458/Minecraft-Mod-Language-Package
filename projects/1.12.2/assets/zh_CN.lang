@@ -1,0 +1,27 @@
+#################################
+###        一般配置        ###
+#################################
+
+cubicchunks.gui.worldmenu.cc_disable=CubicChunks: 关
+cubicchunks.gui.worldmenu.cc_default=CubicChunks: 默认
+
+#################################
+###          选项          ###
+#################################
+
+cubicchunks.gui.vertical_cube_load_distance=垂直距离：%d立方体
+
+#################################
+###         命令          ###
+#################################
+
+cubicchunks.command.usage.cubicchunks=/立方方块子指令
+cubicchunks.command.usage.config=/立方方块配置子指令
+cubicchunks.command.usage.config.set=/立方方块配置集配置选项值
+cubicchunks.command.usage.config.set_option=/立方块配置集%s值
+cubicchunks.command.usage.config.reload=/重新加载立方方块配置
+cubicchunks.command.config.set.failed=设置配置选项%s失败！
+cubicchunks.command.config.set.done=配置选项%s已设置为"%s"
+cubicchunks.command.config.set.requires_restart=更改配置选项%s需要全部重新启动！
+cubicchunks.command.usage.config.set.primitive=配置选项%s具有类型%s并且需要 1 个参数
+cubicchunks.command.config.reload.done=立方方块配置已重新加载
